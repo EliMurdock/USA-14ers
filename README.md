@@ -6,6 +6,7 @@ filters for various mountain heights, and different displayed layers. The data i
 simpler than importing data from other sources, and was accurate.
 
 [Software Demo Video](https://youtu.be/VvIIj_3XmbE)
+
 [The 14ers Website](https://byui.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=4032d03ad30c4a90b14e950481010966&locale=en)
 
 # Development Environment
